@@ -1,0 +1,23 @@
+Zdravím vás, 
+
+níže posílám report z Kruhových konzultací. S dovolením jsem spojil reporty z obou mých kruhů - třeba bude lidem z jedné skupiny připadat zajímavé i něco z toho, co jsme probírali se skupinou druhou.
+
+* Blender a další 3D modelovací kurzy: PhD. Milet pořádal kurzy Blenderu, bohužel se mi nepodařilo najít detaily, proto doporučuji sledovat maily - pokud se kurzy obnoví, měl by jít mail. Druhou možností je naučit se Blender nebo Fusion 360 pod FabLab akademií (https://www.fablabbrno.cz/akce/10-2023/4/), která je součástí komunitní dílny FabLab. Kurzy startují začátkem října.
+* FabLab je komunitní dílna ( = místo, kde můžete kutit/bastlit bez obav, že vás sousedi vyhodí i s vrtačkou :)). Zároveň můžete pracovat i se stroji, které si domů asi nepořídíte: laserovou řezačkou a CNC frézkou. Součástí je i FabLab akademie, která poskytuje různé kurzy za malou úplatu. Například právě Fusion 360 nebo Blender. Kurzy se konají cca jednou do roka, takže je třeba vychytat čas (teď by měl jeden turnus startovat). Detaily najdete na stránkách FabLabu: https://www.fablabbrno.cz/. Odkaz přímo na kurzy je výše.
+* 3D tiskárny: Pokud máte zájem o 3D tisk, ale 3D tiskárnu nevlastníte, je možné tisknout na fakultě (i když primárně pro fakultní účely - krabičky na IoT projekty do předmětů atp.). Druhou možností je i výše zmíněný FabLab.
+* reMarkable: Pár lidí se mě ptalo na můj zápisník, tak přidávám detaily. Jedná se o reMarkable 2, podrobnější recenzi jsem už dřív sepsal na blog, takže kdo má zájem, může se podívat: 
+    * http://janberan.tech/2021/06/remarkable-e-ink-zapisnik-ktery-si-zamilujete/
+    * http://janberan.tech/2022/08/remarkable-e-ink-zapisnik-ktery-stale-musite-milovat-aneb-update-po-20-mesicich/
+* Pár z vás také programuje/chce programovat hry, přičemž padla řeč na Unity. Na FIT jsem se osobně s vývojem her příliš nesetkal, ale:
+    * V dalších semestrech vás čeká předmět IZG (Základy grafiky) pod vedením PhD. Mileta. Do grafiky je to opravdu zapálený člověk a třeba by vás někam dokázal nasměrovat.
+    * Zkušenosti s Unity lze získat i mimo tvorbu her. Např. skupina Robo@FIT programuje rozšířenou realitu pro programování robotického ramene právě v Unity: https://www.fit.vut.cz/research/group/robo/.cs
+    * Poslední možností je prohledat Discord. Někteří studenti vytvářejí hry - a to nejen v Unity, ale také např. ve frameworku Godot, který je na rozdíl od Unity open-source.
+* Pár lidí se mě také ptalo, jak na/z Merlina dostat soubory. Pro Windows existují utility Putty pro přihlašování a WinSCP pro sdílení souborů (detaily bohužel neposkytnu, jedu pouze na linuxu :( ). Pro linux se lze přihlašovat klasicky přes ssh (pro merlina může být třeba se nejdřív přihlásit na evu kvůli tomu, že merlin je přístupný jen z některých IP adres). Na linuxu lze poté sdílet soubory pomocí terminálové utility scp: https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/
+* Pokud někoho baví robotika/IoT/agentní systémy atp. a chtěl by se téhle problematice věnovat (na IKK jsme se k tomu úplně nedostali), např. formou projektové praxe, budoucí bakalářky, klidně se ozvěte a něco vymyslíme. Stejně tak se ozvěte, pokud si o tom chcete jen pokecat u piva.
+
+Další schůzka bude někdy v polovině semestru (za cca 14-21 dní pošlu Doodle s možnými termíny). V rozvrhu by IKK měly být snad každý týden, tak na to prosím neberte zřetel - IKK budou, kdy se dohodneme, ne kdy to říká rozvrh :).
+
+Závěrem přeji všem hodně štěstí a pokud máte zájem cokoli prodiskutovat, ozvěte se. 
+
+S přáním pěkného víkendu
+Honza Beran 
